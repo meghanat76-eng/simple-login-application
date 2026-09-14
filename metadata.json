@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Tracker",
+  "description": "A full-stack job application tracker with local SQLite database, JWT authentication, application management, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
